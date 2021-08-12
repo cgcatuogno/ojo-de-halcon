@@ -7,6 +7,7 @@ Proyecto llevado a cabo por investigadores de la Universidad Nacional de San Lui
 
 
 
+![11](https://user-images.githubusercontent.com/88517674/129197275-02d5fc7e-a2b6-4b42-aa1e-ce2512eb5d38.jpg)
 
 
 
