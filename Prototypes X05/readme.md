@@ -2,6 +2,8 @@ Prototipos X05-Small y X05-Big diseñados para pruebas experimentales de vuelo s
 
 X05-Small and X05-Big prototypes designed for experimental flight tests without batteries with 100% solar energy.
 
+![image](https://user-images.githubusercontent.com/88517674/129280506-0f0844d9-e3f9-4258-bf34-0bba1927630d.png)
+
 ![image](https://user-images.githubusercontent.com/88517674/129279927-24947e8a-0078-4806-b72a-bbaaa101ab6c.png)
 
 ![image](https://user-images.githubusercontent.com/88517674/129279972-6aae229a-3b74-43c6-907d-b4c72935a3ff.png)
