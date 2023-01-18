@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=HShZ6HlFT8M
 
 ![innovar-premio-2022-front](https://user-images.githubusercontent.com/88517674/201726427-85be7aef-94e6-403a-b407-d234f7e97e77.jpg)
 
+
 El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Cocuros Provincial de Innovacion "INNOVACCION 2022".
 
 ![agencia-2](https://user-images.githubusercontent.com/88517674/213193077-7b8d16a5-54ef-4858-8ba9-a94b19ef3916.jpg)
@@ -20,6 +21,8 @@ El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Cocuros Pro
 ![INNOVACCION-2023-04](https://user-images.githubusercontent.com/88517674/213193666-e31b410d-3d9b-4f78-9717-253c34db58a2.jpg)
 
 ![INNOVACCION-2023-05](https://user-images.githubusercontent.com/88517674/213193610-999014e2-0b56-4488-b13a-f72c57b0f3ed.jpg)
+
+![Diapositiva1](https://user-images.githubusercontent.com/88517674/213194426-6ad1105e-582b-4da1-826b-ae630f474b3e.PNG)
 
 
 Proyecto Ojo de Halcon
