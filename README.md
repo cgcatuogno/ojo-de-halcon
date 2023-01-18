@@ -1,5 +1,5 @@
 # ojo-de-halcon
-El Proyecto "Ojo de Halcon Sustentable" fue premiado en el Cocuros NAcional de Innovacion "INNOVAR 2022".
+El Proyecto "Ojo de Halcon Sustentable" fue premiado en el Cocuros Nacional de Innovacion "INNOVAR 2022".
 
 https://www.youtube.com/watch?v=HShZ6HlFT8M
 
@@ -8,6 +8,19 @@ https://www.youtube.com/watch?v=HShZ6HlFT8M
 ![IMG56](https://user-images.githubusercontent.com/88517674/201725788-7e0dd3fb-e875-430d-a605-38b33baeb302.jpg)
 
 ![innovar-premio-2022-front](https://user-images.githubusercontent.com/88517674/201726427-85be7aef-94e6-403a-b407-d234f7e97e77.jpg)
+
+El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Cocuros Provincial de Innovacion "INNOVACCION 2022".
+
+![agencia-2](https://user-images.githubusercontent.com/88517674/213193077-7b8d16a5-54ef-4858-8ba9-a94b19ef3916.jpg)
+
+![INNOVACCION-2023-02](https://user-images.githubusercontent.com/88517674/213193474-23e46c0a-0d7f-4892-b840-6ad5cba6e1d0.jpg)
+
+![20221220_170440](https://user-images.githubusercontent.com/88517674/213193388-1aee9846-acb9-49cf-9265-99abed370503.jpg)
+
+![INNOVACCION-2023-04](https://user-images.githubusercontent.com/88517674/213193666-e31b410d-3d9b-4f78-9717-253c34db58a2.jpg)
+
+![INNOVACCION-2023-05](https://user-images.githubusercontent.com/88517674/213193610-999014e2-0b56-4488-b13a-f72c57b0f3ed.jpg)
+
 
 Proyecto Ojo de Halcon
 
