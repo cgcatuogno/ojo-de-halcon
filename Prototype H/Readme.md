@@ -1,4 +1,4 @@
-Pototipo LabTA-HYDROGEN
+Prototipo LabTA-HYDROGEN
 
 ![00](https://user-images.githubusercontent.com/88517674/232820660-8e6c4a38-cc76-4535-8b96-f4859cec8a99.png)
 ![0](https://user-images.githubusercontent.com/88517674/232590404-b50641d4-27b6-4847-a05c-cee2e872c4a5.png)
