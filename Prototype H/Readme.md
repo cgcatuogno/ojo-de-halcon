@@ -94,4 +94,7 @@ Prototipo LabTA-HYDROGEN
 ![89](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/27a3816a-80be-4b8e-9b6b-4cb41c24efc1)
 ![90](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/be5bd432-6319-42c8-93e5-9a0175f2b6ad)
 ![91](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/ac1b9f03-e894-40ff-b5c9-d4c8b3b8d730)
+![92](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/35b45bbc-b648-484e-865d-6b0565621b4e)
+![93](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/b2f5d729-2897-4276-b252-fed9ada5ab52)
+![94](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/c5ff228e-8a1e-4610-8df1-e12f9866ac6d)
 
