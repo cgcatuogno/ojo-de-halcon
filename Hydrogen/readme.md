@@ -1,6 +1,5 @@
 
 ![Diapositiva4](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/7f4500fd-7393-430a-9832-7811cdcf4084)
-![0](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/b07568f2-ff26-4c3c-abc8-bd5b39ff8cf1)
 ![1](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/65caa46e-0a20-4e10-b490-35edb55c0465)
 ![2](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/e758f7ab-d6f6-4cfe-8a0b-5f8f240a3a72)
 ![3](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/a1275a9c-7fb9-4b24-8ffc-95cfe375355c)
