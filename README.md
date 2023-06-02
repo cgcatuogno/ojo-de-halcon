@@ -51,4 +51,4 @@ Project carried out by researchers from the National University of San Luis, Arg
 
 ![IMG_20220130_111839](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/8cb438e8-792e-4427-8747-fed31f3c3259)
 
-![302604678_5303507586353149_7534395377876411430_n2](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/a7d635b9-daec-4027-b76c-0640b347a11b)
+![302604678_5303507586353149_7534395377876411430_n2](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/5e8f269c-09ae-46e0-b710-a613fb434326)
