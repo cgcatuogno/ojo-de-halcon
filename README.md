@@ -32,7 +32,7 @@ Espacio destinado a mostrar los avances en la investigacion del proyecto Ojo de 
 Proyecto llevado a cabo por investigadores de la Universidad Nacional de San Luis, Argentina, pertenecientes a la Laboratorio de Tecnologias Apropiadas LabTA.
 
 
-![image](https://user-images.githubusercontent.com/88517674/129277510-5a878159-456c-4778-b492-967075596652.png)
+![19](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/f8faff31-59a7-4296-8b40-a114841f3e37)
 
 
 Hawk's Eye Project
@@ -41,9 +41,14 @@ Space destined to show the advances in the investigation of the Ojo de Halcon pr
 
 Project carried out by researchers from the National University of San Luis, Argentina, belonging to the Laboratory of Appropriate Technologies LabTA
 
-![image](https://user-images.githubusercontent.com/88517674/129277479-0bf41c47-4544-4f46-9544-1151e24608b4.png)
 
+![IMG_9536](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/e905e01f-968f-4a69-9806-19207368b87c)
 
-![image](https://user-images.githubusercontent.com/88517674/129277445-6cb7ff4d-9be2-41cf-acc6-36e1504957c8.png)
+![IMG_20220220_112745 (2)](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/81a4ef37-0043-4ebb-8d44-922dc6e29f88)
 
-![image](https://user-images.githubusercontent.com/88517674/129277377-53ea97b1-1722-4001-8225-e725105b6e38.png)
+![1650918155117](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/521b508e-6cb9-495a-8d76-5550d2cb7abc)
+
+![292443295_772814870816511_1065494990263454665_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/ab5d126a-662c-45e1-a53d-b434b7128ca3)
+
+![IMG_20220130_111839](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/8cb438e8-792e-4427-8747-fed31f3c3259)
+
