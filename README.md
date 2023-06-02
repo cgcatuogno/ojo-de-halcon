@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=HShZ6HlFT8M
 ![innovar-premio-2022-front](https://user-images.githubusercontent.com/88517674/201726427-85be7aef-94e6-403a-b407-d234f7e97e77.jpg)
 
 
-El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Cocuros Provincial de Innovacion "INNOVACCION 2022".
+El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Concurso Provincial de Innovacion "INNOVACCION 2022".
 
 ![agencia-2](https://user-images.githubusercontent.com/88517674/213193077-7b8d16a5-54ef-4858-8ba9-a94b19ef3916.jpg)
 
@@ -41,8 +41,7 @@ Space destined to show the advances in the investigation of the Ojo de Halcon pr
 
 Project carried out by researchers from the National University of San Luis, Argentina, belonging to the Laboratory of Appropriate Technologies LabTA
 
-
-![IMG_9536](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/e905e01f-968f-4a69-9806-19207368b87c)
+![IMG_9536](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/585a556f-187d-45a3-a530-1264c6656be8)
 
 ![IMG_20220220_112745 (2)](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/81a4ef37-0043-4ebb-8d44-922dc6e29f88)
 
