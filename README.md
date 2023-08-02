@@ -36,7 +36,12 @@ El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Concurso Pr
 ![Diapositiva1](https://user-images.githubusercontent.com/88517674/213194426-6ad1105e-582b-4da1-826b-ae630f474b3e.PNG)
 
 
-No al proyecto en el Programa Todos Estamos Conectados de la TV Publica
+Nota al proyecto en el Diario Pagina 12
+
+![331120697_2593996414088100_2243999997326868536_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/8f390ab8-29ea-44e9-a5b4-7d8f7422ec97)
+
+
+Nota al proyecto en el Programa Todos Estamos Conectados de la TV Publica
 
 ![337249875_2106317662899767_5577973655190706263_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/6b45cf66-8246-423f-8462-ee790d58f3fb)
 
@@ -48,6 +53,17 @@ Entrevista del Programa FACTOR UV de Úrsula Vargues y Eduardo de la Puente al P
 
 ![340471470_1574181793081371_99303899882045122_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/838fa860-51c8-45c9-bc0e-dac0315f05f4)
 
+Nota al proyecto en el Programa Desde El Conocimiento
+
+![280217590_729174605180538_5568951914236400801_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/49cef53d-ad8a-4196-a4d9-55c96af50a44)
+
+
+
+Reconocimiento al Proyecto Ojo de Halcon por el Honorable Concejo Deliberante de la Ciudad de Villa Mercedes.
+
+![81699082_2611132995590635_1168684391065452544_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/72b18220-08a6-4a25-88b1-ad3cb58d0a50)
+
+![81481018_2611132848923983_7684829861398970368_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/2fc460b5-a4cb-4137-82b6-5d99bd844e4b)
 
 
 
