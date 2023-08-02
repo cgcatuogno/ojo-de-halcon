@@ -15,9 +15,10 @@ https://www.youtube.com/watch?v=HShZ6HlFT8M
 
 El proyecto Ojo de Halcón recibio un reconocimiento de la Comisión de Ciencia y Tecnología del Honorable Senado de la Nación. La ceremonia fue presidida por el senador Dr. Adolfo Rodríguez Saá y el Rector  de la UNSL C.P.N. Víctor Moriñigo.
 
-![reconocimiento-senado-02](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/8780f00b-b6d5-4ccd-b105-f28c8213cdb9)
+![reconocimiento-senado-02](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/0efad1f5-7995-476f-8da9-dd0d4242f0a2)
 
-![reconocimiento-senado-front](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/c62e2836-b972-490b-9159-64bc80e508d8)
+![reconocimiento-senado-front](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/19ee7485-056f-4adb-8f5c-13ad9ed21d6b)
+
 
 
 El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Concurso Provincial de Innovacion "INNOVACCION 2022".
