@@ -36,6 +36,22 @@ El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Concurso Pr
 ![Diapositiva1](https://user-images.githubusercontent.com/88517674/213194426-6ad1105e-582b-4da1-826b-ae630f474b3e.PNG)
 
 
+No al proyecto en el Programa Todos Estamos Conectados de la TV Publica
+
+![337249875_2106317662899767_5577973655190706263_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/6b45cf66-8246-423f-8462-ee790d58f3fb)
+
+![337357181_1011171159847254_86717520397618783_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/52649c14-4aac-49a2-8aaf-709569bc1567)
+
+
+
+Entrevista del Programa FACTOR UV de Úrsula Vargues y Eduardo de la Puente al Proyecto Ojo de Halcon.
+
+![340471470_1574181793081371_99303899882045122_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/838fa860-51c8-45c9-bc0e-dac0315f05f4)
+
+
+
+
+
 Proyecto Ojo de Halcon
 
 Espacio destinado a mostrar los avances en la investigacion del proyecto Ojo de Halcon.
