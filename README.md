@@ -65,6 +65,9 @@ Reconocimiento al Proyecto Ojo de Halcon por el Honorable Concejo Deliberante de
 
 ![81481018_2611132848923983_7684829861398970368_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/2fc460b5-a4cb-4137-82b6-5d99bd844e4b)
 
+Premio obtenido en el Inter-Chapter paper Competition de la IEEE año 2020 - Singapur
+
+![129103052_393126262118709_3706980552376681084_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/3bcbd358-7b55-4ca3-a723-0f8d82324ee8)
 
 
 
