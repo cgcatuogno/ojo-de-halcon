@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=HShZ6HlFT8M
 
 ![innovar-premio-2022-front](https://user-images.githubusercontent.com/88517674/201726427-85be7aef-94e6-403a-b407-d234f7e97e77.jpg)
 
+![IMG94](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/d03806bf-cfda-465d-ac62-7821144f25e7)
+
+
 
 El proyecto Ojo de Halcón recibio un reconocimiento de la Comisión de Ciencia y Tecnología del Honorable Senado de la Nación. La ceremonia fue presidida por el senador Dr. Adolfo Rodríguez Saá y el Rector  de la UNSL C.P.N. Víctor Moriñigo.
 
