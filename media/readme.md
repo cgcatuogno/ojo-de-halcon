@@ -24,3 +24,21 @@ https://www.youtube.com/watch?v=CiNWM-v7Sv4&t=3s
 Prueba Sistema OpenHD en Plataforma LabTA-X04
 
 https://www.youtube.com/watch?v=LCiUEMqVECU&t=94s
+
+
+Construcción del Drone LabTA-Hydrogen
+
+https://youtu.be/93y9UXRq4_E
+
+
+Construcción del sistema de hidrogeno LabTA-Hydrogen
+
+https://youtu.be/iH5O2KLkw20
+
+
+Microrred Inteligente del drone LabTA-Hydrogen
+
+https://youtu.be/y2rfGBmZWSE
+
+
+
