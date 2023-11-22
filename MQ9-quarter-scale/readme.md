@@ -97,7 +97,7 @@ Version 1/4 Escala del Drone MQ9-Reaper
 ![96](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/b9c7a1e7-f0fd-413e-b9ad-fe8c891a3ab0)
 ![97](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/cf3b5ec8-22d9-4d75-bf56-1601df330c1a)
 ![98](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/9f5fa2c5-ae16-42d7-a9a9-55e4007843c4)
-![99](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/b5a1fbf0-5f43-41dd-a241-57b374a441fb)
+
 
 
 
