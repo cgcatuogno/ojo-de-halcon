@@ -74,6 +74,9 @@ Premio obtenido en el Inter-Chapter paper Competition de la IEEE año 2020 - Sin
 
 ![129103052_393126262118709_3706980552376681084_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/3bcbd358-7b55-4ca3-a723-0f8d82324ee8)
 
+El Proyecto Ojo de Halcon del LabTA junto con el LabMe presentes en el Workshop de la Secretaria de Secretaría de Vinculación Tecnológica y Social UNSL
+
+![400131071_932598248252423_5104602310516071200_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/9215bf21-adfe-49df-8318-1f80a967d48a)
 
 
 Proyecto Ojo de Halcon
@@ -103,3 +106,12 @@ Project carried out by researchers from the National University of San Luis, Arg
 ![IMG_20220130_111839](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/8cb438e8-792e-4427-8747-fed31f3c3259)
 
 ![302604678_5303507586353149_7534395377876411430_n2](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/5e8f269c-09ae-46e0-b710-a613fb434326)
+
+![7](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/3623bc5b-748e-4407-b474-235678e23b8c)
+
+![2](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/b86edad3-b59c-48e2-8016-9c5d49bf12ed)
+
+![352330526_993133782117951_8084139706816288660_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/3f4735dd-ddc0-43f0-b6d4-e5c026e012b6)
+
+![377423567_894473222064926_7361602563887236218_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/6acfbd14-aaaf-4ff2-af2d-66535bc67a2f)
+
