@@ -9,6 +9,12 @@ https://www.youtube.com/watch?v=HShZ6HlFT8M
 
 ![innovar-premio-2022-front](https://user-images.githubusercontent.com/88517674/201726427-85be7aef-94e6-403a-b407-d234f7e97e77.jpg)
 
+Muchas gracias a la revista Aeroespacio de la Fuerza Aérea Argentina, por la nota al Proyecto Ojo de Halcon en la ultima edición de enero 2024, sin lugar a dudas es un honor para nosotros que tan prestigiosa revista de difusión de aeronáutica militar y civil se haya interesado en publicar y difundir nuestro proyecto. Con el plus de compartir la revista con las notas a nuestra gloriosa V Brigada Aérea y a nuestro querido Aeroclub Villa Mercedes.
+
+![420167943_977113963800851_9214965558941361764_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/2f460528-3d15-4b1d-8d8b-1575c2ccf66b)
+
+![420195495_977113960467518_9152191502646957096_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/c155e90d-1ce1-46ab-8be3-9fe2fc35d018)
+
 
 
 
