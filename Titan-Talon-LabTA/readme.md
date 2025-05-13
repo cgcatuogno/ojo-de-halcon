@@ -4,6 +4,7 @@ El prototipo de dron autónomo desarrollado en este proyecto es el resultado del
 
 El presente proyecto tiene como objetivo el diseño y construcción de drones autónomos de bajo costo utilizando tecnología de impresión 3D. Estos drones serán empleados en el relevamiento agrícola y en la gestión de emergencias ambientales como incendios forestales e inundaciones. Gracias a su diseño modular y adaptable, permitirán realizar tareas de monitoreo en tiempo real, optimizando la toma de decisiones en el sector agrícola y en situaciones de crisis ambiental. Su construcción mediante impresión 3D facilita la reparación y personalización de componentes, reduciendo costos y tiempos de fabricación. Además, la integración de tecnologías de sensores y navegación permitirá mejorar la eficiencia en la captura y análisis de datos.
 
+![20250412_113120](https://github.com/user-attachments/assets/f54dc090-e9e0-4d13-8290-1a16a1058f08)
 ![533511bd-ed66-4236-9c30-0dbdcf8bbae5](https://github.com/user-attachments/assets/b1ca51cc-d696-403c-b40b-c8a98935685e)
 ![nariz - copia](https://github.com/user-attachments/assets/2a12d7c3-d3d4-4499-ac8c-af0dd8593a7c)
 ![IMG_20250207_163857801](https://github.com/user-attachments/assets/17db62f6-3a9e-4a3e-8479-05adb2ba5613)
@@ -30,4 +31,4 @@ El presente proyecto tiene como objetivo el diseño y construcción de drones au
 ![20250412_102511](https://github.com/user-attachments/assets/56b561a1-5a74-455e-8bfe-11a2066a01a9)
 ![20250412_102410](https://github.com/user-attachments/assets/d641489f-408a-4653-8f5f-cf280961fd6b)
 ![20250412_101011](https://github.com/user-attachments/assets/4ad36f44-af53-4083-9d90-e0481db031f6)
-![20250412_113120](https://github.com/user-attachments/assets/f54dc090-e9e0-4d13-8290-1a16a1058f08)
+
