@@ -1,4 +1,4 @@
-# ojo-de-halcon
+<h1 align="center"><i><b>Proyecto Ojo de Halcon</b></i></h1>
 El Proyecto "Ojo de Halcon Sustentable" fue premiado en el Concurso Nacional de Innovacion "INNOVAR 2022".
 
 https://www.youtube.com/watch?v=HShZ6HlFT8M
