@@ -13,7 +13,7 @@ El Proyecto "Ojo de Halcon Sustentable" fue premiado en el Concurso Nacional de 
 
 ![innovar-premio-2022-front](https://user-images.githubusercontent.com/88517674/201726427-85be7aef-94e6-403a-b407-d234f7e97e77.jpg)
 
-<img width="800" height="1200" alt="IMG94 (1)" src="https://github.com/user-attachments/assets/7051505d-5adb-475e-ae14-850b71b2e7e4" />
+<img width="400" height="600" alt="IMG94 (1)" src="https://github.com/user-attachments/assets/7051505d-5adb-475e-ae14-850b71b2e7e4" />
 
 <h1 align="center"><i><b>Nota revista Aeroespacio</b></i></h1>
 Muchas gracias a la revista Aeroespacio de la Fuerza Aérea Argentina, por la nota al Proyecto Ojo de Halcon en la ultima edición de enero 2024, sin lugar a dudas es un honor para nosotros que tan prestigiosa revista de difusión de aeronáutica militar y civil se haya interesado en publicar y difundir nuestro proyecto. Con el plus de compartir la revista con las notas a nuestra gloriosa V Brigada Aérea y a nuestro querido Aeroclub Villa Mercedes.
@@ -105,6 +105,10 @@ Sistema de sensores para evaluación de coeficientes aerodinamicos en tunel de v
 
 <h1 align="center"><i><b>Trabajo Final de Grado Ing. Mecatrónica </b></i></h1>
 Sistema de seguidor de antena (Antenna Tracker) para drones. Trabajo final de grado del alumno Tomas Castillo, perteneciente a la carrera de Ingeniería Mecatrónica de la Universidad Nacional de San Luis (UNSL), realizado en el Laboratorio de Tecnologías Apropiadas (LabTA).
+<img width="1311" height="1193" alt="thumbnail" src="https://github.com/user-attachments/assets/e3369c32-2a2c-4bbd-9e03-0a893d0e9c51" />
+
+
+
 
 
 Hawk's Eye Project
