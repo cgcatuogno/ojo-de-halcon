@@ -65,7 +65,7 @@ Entrevista del Programa FACTOR UV de Úrsula Vargues y Eduardo de la Puente al P
 
 ![340471470_1574181793081371_99303899882045122_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/838fa860-51c8-45c9-bc0e-dac0315f05f4)
 
-<h1 align="center"><i><b>Nota Programa DESDE EL CONOCIMIENTOo</b></i></h1>
+<h1 align="center"><i><b>Nota Programa DESDE EL CONOCIMIENTO</b></i></h1>
 Nota al proyecto en el Programa Desde El Conocimiento
 
 ![280217590_729174605180538_5568951914236400801_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/49cef53d-ad8a-4196-a4d9-55c96af50a44)
