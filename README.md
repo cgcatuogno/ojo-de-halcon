@@ -93,12 +93,18 @@ El prototipo de dron autónomo impreso en 3d desarrollado en este proyecto es el
 <img width="2340" height="3120" alt="20250412_113120" src="https://github.com/user-attachments/assets/47dbb85e-df57-4242-9027-a4db43c22a1d" />
 <img width="3000" height="4000" alt="20250412_105308" src="https://github.com/user-attachments/assets/6243dad9-4151-4bb4-923f-e7acf2531f8b" />
 
+<h1 align="center"><i><b>Concurso Premio a la Innovación sanluiseña para estudiantes</b></i></h1>
+Se presento el prototipo de dron autónomo impreso en 3d desarrollado como trabajo final de grado del alumno Cristian Jakas, perteneciente a la carrera de Ingeniería Mecatrónica logrando el segundo puesto.
+<img width="3000" height="4000" alt="20250722_152935" src="https://github.com/user-attachments/assets/06e8dd05-d8b1-4699-9eaf-cb38535b8754" />
 
-<h1 align="center"><i><b>Trabajo Final de Grado Ing. Mecatrónica </b></i></h1>
+
+<h1 align="center"><i><b>Trabajo Final de Grado Ing. Mecatrónica</b></i></h1>
 Sistema de sensores para evaluación de coeficientes aerodinamicos en tunel de viento de Laboratorio LER-FICA. Trabajo final de grado del alumno Fernando Echandia, perteneciente a la carrera de Ingeniería Mecatrónica de la Universidad Nacional de San Luis (UNSL), realizado en el Laboratorio de Tecnologías Apropiadas (LabTA).
 <img width="2935" height="2252" alt="20241030_174820 (2)" src="https://github.com/user-attachments/assets/842215cb-9304-4e98-8e38-3311d6535e31" />
 <img width="4000" height="2252" alt="20241030_174936" src="https://github.com/user-attachments/assets/6dfd3dd2-099b-447f-a310-985f0dd1e1a1" />
 
+<h1 align="center"><i><b>Trabajo Final de Grado Ing. Mecatrónica </b></i></h1>
+Sistema de seguidor de antena (Antenna Tracker) para drones. Trabajo final de grado del alumno Tomas Castillo, perteneciente a la carrera de Ingeniería Mecatrónica de la Universidad Nacional de San Luis (UNSL), realizado en el Laboratorio de Tecnologías Apropiadas (LabTA).
 
 
 Hawk's Eye Project
