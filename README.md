@@ -7,8 +7,6 @@ Proyecto llevado a cabo por investigadores de la Universidad Nacional de San Lui
 <h1 align="center"><i><b>Concurso INNOVAR 2022</b></i></h1>
 El Proyecto "Ojo de Halcon Sustentable" fue premiado en el Concurso Nacional de Innovacion "INNOVAR 2022".
 
-https://www.youtube.com/watch?v=HShZ6HlFT8M
-
 ![IMG04](https://user-images.githubusercontent.com/88517674/201725876-c00abc5e-8d5d-4f0b-8dce-b56c53da1f2e.jpg)
 
 ![IMG56](https://user-images.githubusercontent.com/88517674/201725788-7e0dd3fb-e875-430d-a605-38b33baeb302.jpg)
