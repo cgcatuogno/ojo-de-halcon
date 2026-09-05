@@ -88,6 +88,17 @@ El Proyecto Ojo de Halcon del LabTA junto con el LabMe presentes en el Workshop 
 
 ![400131071_932598248252423_5104602310516071200_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/9215bf21-adfe-49df-8318-1f80a967d48a)
 
+<h1 align="center"><i><b>Trabajo Final de Grado Ing. Mecatrónica </b></i></h1>
+El prototipo de dron autónomo impreso en 3d desarrollado en este proyecto es el resultado del trabajo final de grado del alumno Cristian Jakas, perteneciente a la carrera de Ingeniería Mecatrónica de la Universidad Nacional de San Luis (UNSL), realizado en el Laboratorio de Tecnologías Apropiadas (LabTA).
+<img width="2340" height="3120" alt="20250412_113120" src="https://github.com/user-attachments/assets/47dbb85e-df57-4242-9027-a4db43c22a1d" />
+<img width="3000" height="4000" alt="20250412_105308" src="https://github.com/user-attachments/assets/6243dad9-4151-4bb4-923f-e7acf2531f8b" />
+
+
+<h1 align="center"><i><b>Trabajo Final de Grado Ing. Mecatrónica </b></i></h1>
+Sistema de sensores para evaluación de coeficientes aerodinamicos en tunel de viento de Laboratorio LER-FICA. Trabajo final de grado del alumno Fernando Echandia, perteneciente a la carrera de Ingeniería Mecatrónica de la Universidad Nacional de San Luis (UNSL), realizado en el Laboratorio de Tecnologías Apropiadas (LabTA).
+<img width="2935" height="2252" alt="20241030_174820 (2)" src="https://github.com/user-attachments/assets/842215cb-9304-4e98-8e38-3311d6535e31" />
+<img width="4000" height="2252" alt="20241030_174936" src="https://github.com/user-attachments/assets/6dfd3dd2-099b-447f-a310-985f0dd1e1a1" />
+
 
 
 Hawk's Eye Project
