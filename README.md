@@ -1,4 +1,7 @@
-<h1 align="center"><i><b>Proyecto Ojo de Halcon</b></i></h1>
+<h1 align="center"><i><b>PROYECTO OJO DE HALCON</b></i></h1>
+Espacio destinado a mostrar los avances en la investigacion del proyecto Ojo de Halcon.
+Proyecto llevado a cabo por investigadores de la Universidad Nacional de San Luis, Argentina, pertenecientes a la Laboratorio de Tecnologias Apropiadas LabTA.
+![19](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/f8faff31-59a7-4296-8b40-a114841f3e37)
 
 <h1 align="center"><i><b>Concurso INNOVAR 2022</b></i></h1>
 El Proyecto "Ojo de Halcon Sustentable" fue premiado en el Concurso Nacional de Innovacion "INNOVAR 2022".
@@ -13,6 +16,7 @@ https://www.youtube.com/watch?v=HShZ6HlFT8M
 
 <img width="800" height="1200" alt="IMG94 (1)" src="https://github.com/user-attachments/assets/7051505d-5adb-475e-ae14-850b71b2e7e4" />
 
+<h1 align="center"><i><b>Nota revista Aeroespacio</b></i></h1>
 Muchas gracias a la revista Aeroespacio de la Fuerza Aérea Argentina, por la nota al Proyecto Ojo de Halcon en la ultima edición de enero 2024, sin lugar a dudas es un honor para nosotros que tan prestigiosa revista de difusión de aeronáutica militar y civil se haya interesado en publicar y difundir nuestro proyecto. Con el plus de compartir la revista con las notas a nuestra gloriosa V Brigada Aérea y a nuestro querido Aeroclub Villa Mercedes.
 
 ![420167943_977113963800851_9214965558941361764_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/2f460528-3d15-4b1d-8d8b-1575c2ccf66b)
@@ -21,7 +25,7 @@ Muchas gracias a la revista Aeroespacio de la Fuerza Aérea Argentina, por la no
 
 
 
-
+<h1 align="center"><i><b>Reconocimiento Senado de la Nacion</b></i></h1>
 El proyecto Ojo de Halcón recibio un reconocimiento de la Comisión de Ciencia y Tecnología del Honorable Senado de la Nación. La ceremonia fue presidida por el senador Dr. Adolfo Rodríguez Saá y el Rector  de la UNSL C.P.N. Víctor Moriñigo.
 
 ![reconocimiento-senado-02](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/0efad1f5-7995-476f-8da9-dd0d4242f0a2)
@@ -29,7 +33,7 @@ El proyecto Ojo de Halcón recibio un reconocimiento de la Comisión de Ciencia 
 ![reconocimiento-senado-front](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/19ee7485-056f-4adb-8f5c-13ad9ed21d6b)
 
 
-
+<h1 align="center"><i><b>Concurso Provincial INNOVACCION 2022</b></i></h1>
 El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Concurso Provincial de Innovacion "INNOVACCION 2022".
 
 ![agencia-2](https://user-images.githubusercontent.com/88517674/213193077-7b8d16a5-54ef-4858-8ba9-a94b19ef3916.jpg)
@@ -44,12 +48,12 @@ El Proyecto "LabTA-X04 Reforestacion Inteligente" fue premiado en el Concurso Pr
 
 ![Diapositiva1](https://user-images.githubusercontent.com/88517674/213194426-6ad1105e-582b-4da1-826b-ae630f474b3e.PNG)
 
-
+<h1 align="center"><i><b>Nota Diario PAGINA 12</b></i></h1>
 Nota al proyecto en el Diario Pagina 12
 
 ![331120697_2593996414088100_2243999997326868536_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/8f390ab8-29ea-44e9-a5b4-7d8f7422ec97)
 
-
+<h1 align="center"><i><b>Nota Programa TV PUBLICA</b></i></h1>
 Nota al proyecto en el Programa Todos Estamos Conectados de la TV Publica
 
 ![337249875_2106317662899767_5577973655190706263_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/6b45cf66-8246-423f-8462-ee790d58f3fb)
@@ -57,40 +61,34 @@ Nota al proyecto en el Programa Todos Estamos Conectados de la TV Publica
 ![337357181_1011171159847254_86717520397618783_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/52649c14-4aac-49a2-8aaf-709569bc1567)
 
 
-
+<h1 align="center"><i><b>Nota Programa FACTOR UV</b></i></h1>
 Entrevista del Programa FACTOR UV de Úrsula Vargues y Eduardo de la Puente al Proyecto Ojo de Halcon.
 
 ![340471470_1574181793081371_99303899882045122_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/838fa860-51c8-45c9-bc0e-dac0315f05f4)
 
+<h1 align="center"><i><b>Nota Programa DESDE EL CONOCIMIENTOo</b></i></h1>
 Nota al proyecto en el Programa Desde El Conocimiento
 
 ![280217590_729174605180538_5568951914236400801_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/49cef53d-ad8a-4196-a4d9-55c96af50a44)
 
 
-
+<h1 align="center"><i><b>Reconocimiento al proyecto CONSEJO DELIBERANTE VM</b></i></h1>
 Reconocimiento al Proyecto Ojo de Halcon por el Honorable Concejo Deliberante de la Ciudad de Villa Mercedes.
 
 ![81699082_2611132995590635_1168684391065452544_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/72b18220-08a6-4a25-88b1-ad3cb58d0a50)
 
 ![81481018_2611132848923983_7684829861398970368_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/2fc460b5-a4cb-4137-82b6-5d99bd844e4b)
 
+<h1 align="center"><i><b>Premio Concurso IEEE Singapur</b></i></h1>
 Premio obtenido en el Inter-Chapter paper Competition de la IEEE año 2020 - Singapur
 
 ![129103052_393126262118709_3706980552376681084_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/3bcbd358-7b55-4ca3-a723-0f8d82324ee8)
 
+<h1 align="center"><i><b>Expo UNSL</b></i></h1>
 El Proyecto Ojo de Halcon del LabTA junto con el LabMe presentes en el Workshop de la Secretaria de Secretaría de Vinculación Tecnológica y Social UNSL
 
 ![400131071_932598248252423_5104602310516071200_n](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/9215bf21-adfe-49df-8318-1f80a967d48a)
 
-
-Proyecto Ojo de Halcon
-
-Espacio destinado a mostrar los avances en la investigacion del proyecto Ojo de Halcon.
-
-Proyecto llevado a cabo por investigadores de la Universidad Nacional de San Luis, Argentina, pertenecientes a la Laboratorio de Tecnologias Apropiadas LabTA.
-
-
-![19](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/f8faff31-59a7-4296-8b40-a114841f3e37)
 
 
 Hawk's Eye Project
