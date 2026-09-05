@@ -1,7 +1,7 @@
 <h1 align="center"><i><b>PROYECTO OJO DE HALCON</b></i></h1>
 Espacio destinado a mostrar los avances en la investigacion del proyecto Ojo de Halcon.
 Proyecto llevado a cabo por investigadores de la Universidad Nacional de San Luis, Argentina, pertenecientes a la Laboratorio de Tecnologias Apropiadas LabTA.
-![19](https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/f8faff31-59a7-4296-8b40-a114841f3e37)
+!(https://github.com/cgcatuogno/ojo-de-halcon/assets/88517674/f8faff31-59a7-4296-8b40-a114841f3e37)
 
 <h1 align="center"><i><b>Concurso INNOVAR 2022</b></i></h1>
 El Proyecto "Ojo de Halcon Sustentable" fue premiado en el Concurso Nacional de Innovacion "INNOVAR 2022".
