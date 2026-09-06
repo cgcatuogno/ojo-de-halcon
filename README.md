@@ -3,7 +3,9 @@ Espacio destinado a mostrar los avances en la investigacion del proyecto Ojo de 
 Proyecto llevado a cabo por investigadores de la Universidad Nacional de San Luis, Argentina, pertenecientes a la Laboratorio de Tecnologias Apropiadas LabTA.
 
 Hawk's Eye Project
+
 Space destined to show the advances in the investigation of the Ojo de Halcon project. Project carried out by researchers from the National University of San Luis, Argentina, belonging to the Laboratory of Appropriate Technologies LabTA
+
 <img width="824" height="582" alt="logo" src="https://github.com/user-attachments/assets/3d78f49a-4d47-49f4-9b86-b6074c680e1e" />
 
 
